@@ -1,1 +1,1 @@
-This folder should contain all the web developement work/projects.
+This folder should contain all the web development work/projects.
