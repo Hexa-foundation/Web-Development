@@ -1,1 +1,1 @@
-## a javascript simulation of a simple mail delivery robot witha reference of eleoquent javascript
+## A javascript simulation of a simple mail delivery robot with a reference of eloquent javascript
